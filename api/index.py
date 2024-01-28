@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, request
-import tensorflow as tf
+# import tensorflow as tf
 import numpy as np
 from PIL import Image
 import base64
